@@ -7,8 +7,5 @@ Call co-workers on skype
 Start making cheat sheets for various programs and languages.
 Look back through each week and my work. Make small, useful cheatsheets to be printed
 
-Week 3
-HTTP Response Codes <<<
-RESTFUL		<<<
-CRUD<<<
-HTML/CSS Selectors Not really needed, can look up easily
+Jmeter: <<<< SImple test done
+Im only Resting:
